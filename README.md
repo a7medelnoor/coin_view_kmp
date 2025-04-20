@@ -52,7 +52,7 @@ A modern cryptocurrency tracking application built with Kotlin Multiplatform (KM
 ## Architecture
 
 <div align="center">
-  <img src="assets/images/architecture_diagram.png" alt="Project Architecture" width="600"/>
+  <img src="assets/images/kmp_architecture_diagram.png" alt="Project Architecture" width="600"/>
 </div>
 
 The app follows Clean Architecture and MVVM (Model-View-ViewModel) patterns, ensuring a robust, maintainable, and testable codebase:
