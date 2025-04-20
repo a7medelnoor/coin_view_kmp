@@ -1,7 +1,7 @@
 # CoinView KMP - Cryptocurrency Tracker
 
 <div align="center">
-  <img src="assets/images/logo.png" alt="CoinView Logo" width="200"/>
+  <img src="assets/images/coin_view_logo.png" alt="CoinView Logo" width="200"/>
 </div>
 
 A modern cryptocurrency tracking application built with Kotlin Multiplatform (KMP) that runs on Android, iOS, and Web platforms. The app provides real-time cryptocurrency market data, price tracking, and detailed coin information.
