@@ -9,10 +9,14 @@ A modern cryptocurrency tracking application built with Kotlin Multiplatform (KM
 ## Demo
 
 ### Android
-![Android Demo](https://raw.githubusercontent.com/a7medelnoor/coin_view_kmp/main/assets/demo/android_demo.gif)
+<div align="center">
+  ![Android Demo](https://raw.githubusercontent.com/a7medelnoor/coin_view_kmp/main/assets/demo/android_demo.gif)
+</div>
 
 ### iOS
-![iOS Demo](https://raw.githubusercontent.com/a7medelnoor/coin_view_kmp/main/assets/demo/ios_demo.gif)
+<div align="center">
+  ![iOS Demo](https://raw.githubusercontent.com/a7medelnoor/coin_view_kmp/main/assets/demo/ios_demo.gif)
+</div>
 
 ## Features
 
