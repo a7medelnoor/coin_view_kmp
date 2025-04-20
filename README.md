@@ -174,6 +174,46 @@ We welcome contributions to CoinView KMP! Here's how you can help:
 - Join our community discussions
 - Reach out to maintainers for guidance
 
+## Troubleshooting
+
+### Common Issues
+
+#### Android
+- **Build Failures**: Ensure you have the latest Android Studio and Kotlin plugin
+- **API Key Issues**: Verify your `secrets.properties` file is properly configured
+- **Emulator Issues**: Try clearing the emulator data or using a physical device
+
+#### iOS
+- **Xcode Build Errors**: Make sure you have the latest Xcode and iOS SDK
+- **Simulator Issues**: Try resetting the simulator or using a physical device
+- **CocoaPods Issues**: Run `pod install` in the `iosApp` directory
+
+### Need More Help?
+- Check the [Issues](https://github.com/a7medelnoor/coin_view_kmp/issues) section for known problems
+- Search for similar issues before creating a new one
+- Provide detailed information when reporting issues:
+  - Platform (Android/iOS)
+  - Device/Emulator details
+  - Steps to reproduce
+  - Error messages
+  - Screenshots if applicable
+
+## Community
+
+### Join Our Community
+- [LinkedIn - Ahmed Elnoor](https://www.linkedin.com/in/ahmed-elnoor/) - Connect with the project maintainer
+- [Kotlin Multiplatform Updates](https://www.linkedin.com/company/kotlin-multiplatform-updates-and-showcases) - Stay updated with KMP news and showcases
+- [Discord Server](https://discord.gg/your-invite-link) - Chat with other developers
+- [Twitter](https://twitter.com/your-handle) - Follow for updates
+- [YouTube](https://youtube.com/your-channel) - Tutorials and demos
+
+### Support the Project
+- ⭐ Star the repository
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 📝 Improve documentation
+- 🔄 Share with others
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
