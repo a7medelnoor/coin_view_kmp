@@ -98,8 +98,6 @@ The app follows Clean Architecture and MVVM (Model-View-ViewModel) patterns, ens
    - Open the project in Android Studio
    - Select your target device/emulator
    - Build and run the app
-5. For Web development:
-   - Run the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task
 
 ## API Key Setup
 
