@@ -201,7 +201,7 @@ We welcome contributions to CoinView KMP! Here's how you can help:
 ### Join Our Community
 - [LinkedIn - Ahmed Elnoor](https://www.linkedin.com/in/ahmed-elnoor/) - Connect with the project maintainer
 - [Kotlin Multiplatform Updates](https://www.linkedin.com/company/kotlin-multiplatform-updates-and-showcases) - Stay updated with KMP news and showcases
-- [Discord Server](https://discord.gg/your-invite-link) - Chat with other developers
+
 
 ### Support the Project
 - ⭐ Star the repository
